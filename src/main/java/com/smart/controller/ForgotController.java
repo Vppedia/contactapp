@@ -121,9 +121,6 @@ public class ForgotController {
 		}
 	}
 	
-	
-	//changes done by vivek for git practical
-	//development is in progress
 	//change password
 	@PostMapping("/change-password")
 	public String changePassword(@RequestParam("newpassword") String newpassword,HttpSession session)
