@@ -69,6 +69,7 @@ public class UserController {
 		String userName = principal.getName();
 		System.out.println("HI I am Conflict..Please resolve");
 		System.out.println("USERNAME " + userName);
+		System.out.println("HI I am Conflict..Please resolve");
 
 		// get the user using usernamne(Email)
 
