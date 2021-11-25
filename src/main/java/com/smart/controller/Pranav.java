@@ -1,5 +1,5 @@
 package com.smart.controller;
-HI Pranav 
+//HI Pranav 
 public class Pranav
 {
   public static void main(String[] args)
