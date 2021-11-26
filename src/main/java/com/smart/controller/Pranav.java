@@ -13,6 +13,7 @@ public class Pranav
   {
 	  System.out.println("Not Committed the changes!!!!!");
 	  System.out.println("change krke merge krdia");
+	  System.out.println("Bina pull liye change krdia ");
   }
 
 }
