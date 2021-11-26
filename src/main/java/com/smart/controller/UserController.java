@@ -64,6 +64,7 @@ public class UserController {
 	
 
 	// method for adding common data to response
+	//Additional Comment added
 	@ModelAttribute
 	public void addCommonData(Model model, Principal principal) {
 		String userName = principal.getName();
